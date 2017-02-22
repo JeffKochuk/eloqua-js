@@ -1,0 +1,8 @@
+{
+  "name": "eloqua-js",
+  "version": "1.0.0",
+  "description": "Simple wrapper to access Eloqua's REST API",
+  "main": "index.js",
+  "author": "Jeff Kochuk",
+  "license": "ISC"
+}
